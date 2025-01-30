@@ -1,0 +1,3 @@
+[submodule "User-Management"]
+    path = User-Management
+    url = https://github.com/Harikrishna1701/User-Management.git
